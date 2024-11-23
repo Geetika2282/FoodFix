@@ -1,5 +1,3 @@
-:
-
 🎬 Unveiling: The FoodFix AI Revolution – The Smartest Way to Control Your Health! 🍏🥦 🎬
 
 🔴 Plot Twist: What if you could track the sugar intake from every meal, predict how it’ll affect your body, and get personalized nutrition recommendations – all with the power of Machine Learning? 🧠💥

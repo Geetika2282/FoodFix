@@ -7,7 +7,7 @@ import streamlit as st
 # Load the dataset (Replace with your dataset path)
 @st.cache
 def load_data():
-    dataset = pd.read_csv('FoodFix/FoodFix/food_dataset.csv')  # Replace with your dataset file name
+    dataset = pd.read_csv('FoodFix/food_dataset.csv')  # Replace with your dataset file name
     return dataset
 
 dataset = load_data()

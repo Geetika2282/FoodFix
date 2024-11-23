@@ -56,7 +56,7 @@ def predict_and_recommend():
 
     try:
         # Load the trained model
-        model = joblib.load('best_nutrition_model.pkl')
+        model = joblib.load('FoodFix/best_nutrition_model.pkl')
 
         # Predefined glycemic index mapping based on sweetness, size, and ripeness
         glycemic_index_map = {

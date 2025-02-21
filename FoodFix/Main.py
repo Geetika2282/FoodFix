@@ -63,8 +63,8 @@ def predict_and_recommend():
 
         sugar_limit = st.number_input("Enter your maximum sugar intake level (in grams):", min_value=0.0, step=0.1)
         food_items_input = st.text_input("Enter the food items (comma-separated):")
-        ripeness_input = st.text_input("Enter the ripeness levels (comma-separated):")
-        size_input = st.text_input("Enter the sizes (comma-separated):")
+        ripeness_input = st.text_input("Enter the ripeness levels (comma-separated): Eg: Unripe, Ripe, Overripe")
+        size_input = st.text_input("Enter the sizes (comma-separated): Eg: Small, Medium, Large")
         sweetness_input = st.text_input("Enter the sweetness levels (comma-separated - Low, Medium, High):")
 
         if st.button("Predict and Recommend"):

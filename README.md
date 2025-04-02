@@ -1,3 +1,5 @@
+https://foodfix-bqwtxrx2f26i2hnc5rdddr.streamlit.app/
+
 **FoodFix AI 🍏🥦 – Smart Nutrition Tracking with ML**  
 
 Track your sugar intake, predict its impact, and get AI-driven nutrition recommendations! 🚀  
